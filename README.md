@@ -90,7 +90,7 @@ Download corresponding model weights (if required) to `code/models/target` and `
 Prepare the vendored vLLM runtime first, then run the benchmark scripts from
 the project directory:
 
-```shell
+```
 cd code
 export VLLM_USE_V1=0
 export PYTHONPATH="$PWD/vllm${PYTHONPATH:+:$PYTHONPATH}"
