@@ -1,0 +1,14 @@
+{
+  "llama3-8b-1b": {
+    "target_model": "models/target/Llama-3.1-8B-Instruct",
+    "draft_model": "models/draft/Llama-3.2-1B-Instruct",
+    "data": "models/datasets/gsm8k/test.jsonl",
+    "checkpoint": "models/checkpoints/gsm8k/llama3-8b-1b/checkpoint_head.pkl",
+    "target_device_map": "auto",
+    "draft_device_map": "cuda:0",
+    "lcb_data": "/data0/sunshengyin/AJ-V2/AutoJudge-develop/data/lcb/code_generation_lite-test.arrow",
+    "lcb_checkpoint": "models/checkpoints/lcb/llama3-8b-1b",
+    "lcb_fold_map": "models/checkpoints/lcb/llama3-8b-1b/lcb_llama_1b8b_offical_fold_map.pt",
+    "lcb_output_dir": "outputs/lcb/llama3-8b-1b"
+  }
+}

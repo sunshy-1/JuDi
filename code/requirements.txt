@@ -1,0 +1,337 @@
+# packages in environment at /home/user/anaconda3/envs/JuDi:
+# used for bash MAT-ACC-Plot experiment
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                 conda_forge    conda-forge
+_openmp_mutex             4.5                       2_gnu    conda-forge
+absl-py                   2.3.1                     <pip>
+accelerate                1.10.1                    <pip>
+aiohappyeyeballs          2.6.1                     <pip>
+aiohttp                   3.12.15                   <pip>
+aiosignal                 1.4.0                     <pip>
+annotated-types           0.7.0                     <pip>
+antlr4-python3-runtime    4.11.0                    <pip>
+anyio                     4.11.0                    <pip>
+asttokens                 3.0.0                     <pip>
+async-timeout             5.0.1                     <pip>
+atomgit                   1.0.2                     <pip>
+attrs                     25.3.0                    <pip>
+bzip2                     1.0.8                h7f98852_4    conda-forge
+ca-certificates           2022.9.24            ha878542_0    conda-forge
+certifi                   2025.8.3                  <pip>
+chardet                   5.2.0                     <pip>
+charset-normalizer        3.4.3                     <pip>
+click                     8.3.1                     <pip>
+colorama                  0.4.6                     <pip>
+comm                      0.2.3                     <pip>
+contourpy                 1.3.2                     <pip>
+cycler                    0.12.1                    <pip>
+DataProperty              1.1.0                     <pip>
+datasets                  3.6.0                     <pip>
+debugpy                   1.8.16                    <pip>
+decorator                 5.2.1                     <pip>
+dill                      0.3.8                     <pip>
+distro                    1.9.0                     <pip>
+evaluate                  0.4.6                     <pip>
+exceptiongroup            1.3.0                     <pip>
+executing                 2.2.1                     <pip>
+fastchat                  0.1.0                     <pip>
+filelock                  3.19.1                    <pip>
+fonttools                 4.60.0                    <pip>
+frozenlist                1.7.0                     <pip>
+fsspec                    2025.3.0                  <pip>
+h11                       0.16.0                    <pip>
+hf-xet                    1.1.9                     <pip>
+httpcore                  1.0.9                     <pip>
+httpx                     0.28.1                    <pip>
+huggingface-hub           0.34.4                    <pip>
+idna                      3.10                      <pip>
+ipykernel                 6.30.1                    <pip>
+ipython                   8.37.0                    <pip>
+jedi                      0.19.2                    <pip>
+Jinja2                    3.1.6                     <pip>
+jiter                     0.11.0                    <pip>
+joblib                    1.5.2                     <pip>
+jsonlines                 4.0.0                     <pip>
+jupyter_client            8.6.3                     <pip>
+jupyter_core              5.8.1                     <pip>
+kiwisolver                1.4.9                     <pip>
+latex2sympy2_extended     1.10.2                    <pip>
+ld_impl_linux-64          2.39                 hc81fddc_0    conda-forge
+libffi                    3.4.2                h7f98852_5    conda-forge
+libgcc-ng                 12.2.0              h65d4601_19    conda-forge
+libgomp                   12.2.0              h65d4601_19    conda-forge
+libnsl                    2.0.0                h7f98852_0    conda-forge
+libsqlite                 3.40.0               h753d276_0    conda-forge
+libuuid                   2.32.1            h7f98852_1000    conda-forge
+libzlib                   1.2.13               h166bdaf_4    conda-forge
+lm_eval                   0.4.8                     <pip>
+lxml                      6.0.2                     <pip>
+MarkupSafe                3.0.2                     <pip>
+math-verify               0.8.0                     <pip>
+matplotlib                3.10.6                    <pip>
+matplotlib-inline         0.1.7                     <pip>
+mbstrdecoder              1.1.4                     <pip>
+modelscope                1.29.2                    <pip>
+more-itertools            10.8.0                    <pip>
+mpmath                    1.3.0                     <pip>
+multidict                 6.6.4                     <pip>
+multiprocess              0.70.16                   <pip>
+ncurses                   6.3                  h27087fc_1    conda-forge
+nest-asyncio              1.6.0                     <pip>
+networkx                  3.4.2                     <pip>
+nltk                      3.9.2                     <pip>
+numexpr                   2.14.1                    <pip>
+numpy                     2.2.6                     <pip>
+nvidia-cublas-cu12        12.4.5.8                  <pip>
+nvidia-cuda-cupti-cu12    12.4.127                  <pip>
+nvidia-cuda-nvrtc-cu12    12.4.127                  <pip>
+nvidia-cuda-runtime-cu12  12.4.127                  <pip>
+nvidia-cudnn-cu12         9.1.0.70                  <pip>
+nvidia-cufft-cu12         11.2.1.3                  <pip>
+nvidia-curand-cu12        10.3.5.147                <pip>
+nvidia-cusolver-cu12      11.6.1.9                  <pip>
+nvidia-cusparse-cu12      12.3.1.170                <pip>
+nvidia-nccl-cu12          2.21.5                    <pip>
+nvidia-nvjitlink-cu12     12.4.127                  <pip>
+nvidia-nvtx-cu12          12.4.127                  <pip>
+openai                    2.3.0                     <pip>
+openssl                   3.0.7                h166bdaf_0    conda-forge
+packaging                 25.0                      <pip>
+pandas                    2.3.2                     <pip>
+parso                     0.8.5                     <pip>
+pathlib                   1.0.1                     <pip>
+pathvalidate              3.3.1                     <pip>
+peft                      0.18.1                    <pip>
+pexpect                   4.9.0                     <pip>
+pillow                    11.3.0                    <pip>
+pip                       22.3.1             pyhd8ed1ab_0    conda-forge
+platformdirs              4.4.0                     <pip>
+plumbum                   1.9.0                     <pip>
+portalocker               3.2.0                     <pip>
+prompt_toolkit            3.0.52                    <pip>
+propcache                 0.3.2                     <pip>
+psutil                    7.0.0                     <pip>
+ptyprocess                0.7.0                     <pip>
+pure_eval                 0.2.3                     <pip>
+pyarrow                   21.0.0                    <pip>
+pybind11                  3.0.1                     <pip>
+pydantic                  2.12.0                    <pip>
+pydantic_core             2.41.1                    <pip>
+Pygments                  2.19.2                    <pip>
+pyparsing                 3.2.4                     <pip>
+pytablewriter             1.2.1                     <pip>
+python                    3.10.6          ha86cf86_0_cpython    conda-forge
+python-dateutil           2.9.0.post0               <pip>
+pytz                      2025.2                    <pip>
+PyYAML                    6.0.2                     <pip>
+pyzmq                     27.1.0                    <pip>
+readline                  8.1.2                h0f457ee_0    conda-forge
+regex                     2025.9.1                  <pip>
+requests                  2.32.5                    <pip>
+rouge-score               0.1.2                     <pip>
+rpyc                      6.0.1                     <pip>
+sacrebleu                 2.6.0                     <pip>
+safetensors               0.6.2                     <pip>
+scikit-learn              1.5.2                     <pip>
+scipy                     1.15.3                    <pip>
+seaborn                   0.13.2                    <pip>
+sentencepiece             0.2.1                     <pip>
+setuptools                65.5.1             pyhd8ed1ab_0    conda-forge
+shortuuid                 1.0.13                    <pip>
+six                       1.17.0                    <pip>
+sniffio                   1.3.1                     <pip>
+sqlitedict                2.1.0                     <pip>
+stack-data                0.6.3                     <pip>
+sympy                     1.13.1                    <pip>
+tabledata                 1.3.4                     <pip>
+tabulate                  0.9.0                     <pip>
+tcolorpy                  0.1.7                     <pip>
+termcolor                 3.1.0                     <pip>
+threadpoolctl             3.6.0                     <pip>
+tk                        8.6.12               h27826a3_0    conda-forge
+tokenizers                0.21.4                    <pip>
+torch                     2.5.1                     <pip>
+tornado                   6.5.2                     <pip>
+tqdm                      4.67.1                    <pip>
+tqdm-multiprocess         0.0.11                    <pip>
+traitlets                 5.14.3                    <pip>
+transformers              4.53.1                    <pip>
+triton                    3.1.0                     <pip>
+typepy                    1.3.4                     <pip>
+typing-inspection         0.4.2                     <pip>
+typing_extensions         4.15.0                    <pip>
+tzdata                    2025.2                    <pip>
+tzdata                    2022f                h191b570_0    conda-forge
+urllib3                   2.5.0                     <pip>
+wcwidth                   0.2.13                    <pip>
+wheel                     0.38.4             pyhd8ed1ab_0    conda-forge
+word2number               1.1                       <pip>
+xxhash                    3.5.0                     <pip>
+xz                        5.2.6                h166bdaf_0    conda-forge
+yarl                      1.20.1                    <pip>
+zstandard                 0.25.0                    <pip>
+
+
+
+
+
+
+# packages in environment at /home/user/anaconda3/envs/vllm083:
+# used for bash Speed-ACC-vllm experiment
+# Name                                       Version              Build      Channel
+agent-detector                               2.0.0                <pip>     
+aiohappyeyeballs                             2.7.1                <pip>     
+aiohttp                                      3.14.3               <pip>     
+aiosignal                                    1.4.0                <pip>     
+airportsdata                                 20260315             <pip>     
+annotated-doc                                0.0.5                <pip>     
+annotated-types                              0.8.0                <pip>     
+anyio                                        4.15.1               <pip>     
+astor                                        0.8.1                <pip>     
+async-timeout                                5.0.1                <pip>     
+attrs                                        26.1.0               <pip>     
+blake3                                       1.0.10               <pip>     
+cachetools                                   7.2.0                <pip>     
+certifi                                      2026.7.22            <pip>     
+charset-normalizer                           3.5.2                <pip>     
+click                                        8.5.0                <pip>     
+cloudpickle                                  3.1.2                <pip>     
+compressed-tensors                           0.9.2                <pip>     
+cuda-pathfinder                              1.8.3                <pip>     
+cupy-cuda12x                                 14.2.0               <pip>     
+depyf                                        0.18.0               <pip>     
+detect-installer                             0.2.1                <pip>     
+dill                                         0.4.1                <pip>     
+diskcache                                    5.6.3                <pip>     
+dnspython                                    2.8.0                <pip>     
+einops                                       0.8.2                <pip>     
+email-validator                              2.3.0                <pip>     
+exceptiongroup                               1.3.1                <pip>     
+fastapi                                      0.142.2              <pip>     
+fastapi-cli                                  0.0.32               <pip>     
+fastapi-cloud-cli                            0.26.0               <pip>     
+fastar                                       0.12.0               <pip>     
+filelock                                     4.0.9                <pip>     
+frozenlist                                   1.8.0                <pip>     
+fsspec                                       2026.9.0             <pip>     
+gguf                                         0.10.0               <pip>     
+googleapis-common-protos                     1.75.5               <pip>     
+h11                                          0.16.0               <pip>     
+hf-xet                                       1.6.0                <pip>     
+httpcore                                     1.0.9                <pip>     
+httpcore2                                    2.13.1               <pip>     
+httptools                                    0.8.0                <pip>     
+httpx                                        0.28.1               <pip>     
+httpx2                                       2.13.1               <pip>     
+huggingface_hub                              0.36.2               <pip>     
+idna                                         3.20                 <pip>     
+importlib_metadata                           9.0.1                <pip>     
+interegular                                  0.3.3                <pip>     
+Jinja2                                       3.1.6                <pip>     
+jiter                                        0.17.0               <pip>     
+jsonschema                                   4.26.0               <pip>     
+jsonschema-specifications                    2025.9.1             <pip>     
+lark                                         1.2.2                <pip>     
+llguidance                                   0.7.30               <pip>     
+llvmlite                                     0.44.0               <pip>     
+lm-format-enforcer                           0.10.12              <pip>     
+markdown-it-py                               4.2.0                <pip>     
+MarkupSafe                                   3.0.4                <pip>     
+mdurl                                        0.1.2                <pip>     
+mistral_common                               1.12.0               <pip>     
+mpmath                                       1.3.0                <pip>     
+msgpack                                      1.2.3                <pip>     
+msgspec                                      0.22.0               <pip>     
+multidict                                    6.9.1                <pip>     
+nanobind                                     3.1.0                <pip>     
+nest-asyncio                                 1.6.0                <pip>     
+networkx                                     3.4.2                <pip>     
+ninja                                        1.13.2               <pip>     
+numba                                        0.61.0               <pip>     
+numpy                                        2.1.3                <pip>     
+nvidia-cublas-cu12                           12.4.5.8             <pip>     
+nvidia-cuda-cupti-cu12                       12.4.127             <pip>     
+nvidia-cuda-nvrtc-cu12                       12.4.127             <pip>     
+nvidia-cuda-runtime-cu12                     12.4.127             <pip>     
+nvidia-cudnn-cu12                            9.1.0.70             <pip>     
+nvidia-cufft-cu12                            11.2.1.3             <pip>     
+nvidia-curand-cu12                           10.3.5.147           <pip>     
+nvidia-cusolver-cu12                         11.6.1.9             <pip>     
+nvidia-cusparse-cu12                         12.3.1.170           <pip>     
+nvidia-cusparselt-cu12                       0.6.2                <pip>     
+nvidia-nccl-cu12                             2.21.5               <pip>     
+nvidia-nvjitlink-cu12                        12.4.127             <pip>     
+nvidia-nvtx-cu12                             12.4.127             <pip>     
+openai                                       3.24.0               <pip>     
+opencv-python-headless                       5.0.0.93             <pip>     
+opentelemetry-api                            1.45.0               <pip>     
+opentelemetry-exporter-http-transport        0.66b0               <pip>     
+opentelemetry-exporter-otlp-common           0.66b0               <pip>     
+opentelemetry-exporter-otlp-proto-common     1.45.0               <pip>     
+opentelemetry-exporter-otlp-proto-http       1.45.0               <pip>     
+opentelemetry-proto                          1.45.0               <pip>     
+opentelemetry-sdk                            1.45.0               <pip>     
+opentelemetry-semantic-conventions           0.66b0               <pip>     
+outlines                                     0.1.11               <pip>     
+outlines_core                                0.1.26               <pip>     
+packaging                                    26.3                 <pip>     
+partial-json-parser                          0.2.1.1.post7        <pip>     
+pillow                                       12.3.0               <pip>     
+pip                                          25.3                 <pip>     
+prometheus-fastapi-instrumentator            8.1.0                <pip>     
+prometheus_client                            0.26.0               <pip>     
+propcache                                    0.5.4                <pip>     
+protobuf                                     7.36.2               <pip>     
+psutil                                       7.2.2                <pip>     
+py-cpuinfo                                   9.0.0                <pip>     
+pycountry                                    26.2.16              <pip>     
+pydantic                                     2.13.5               <pip>     
+pydantic-extra-types                         2.11.1               <pip>     
+pydantic-settings                            2.15.0               <pip>     
+pydantic_core                                2.46.5               <pip>     
+Pygments                                     2.21.0               <pip>     
+python-dotenv                                1.2.4                <pip>     
+python-json-logger                           4.2.0                <pip>     
+python-multipart                             0.0.32               <pip>     
+PyYAML                                       6.0.3                <pip>     
+pyzmq                                        27.2.0               <pip>     
+ray                                          2.59.0               <pip>     
+referencing                                  0.37.0               <pip>     
+regex                                        2026.9.29            <pip>     
+requests                                     2.34.2               <pip>     
+rich                                         15.0.0               <pip>     
+rich-toolkit                                 0.20.5               <pip>     
+rignore                                      0.8.1                <pip>     
+rpds-py                                      0.30.0               <pip>     
+safetensors                                  0.8.0                <pip>     
+scipy                                        1.15.3               <pip>     
+sentencepiece                                0.2.2                <pip>     
+sentry-sdk                                   2.71.0               <pip>     
+setuptools                                   63.2.0               <pip>     
+shellingham                                  1.5.4                <pip>     
+sniffio                                      1.3.1                <pip>     
+starlette                                    1.7.0                <pip>     
+sympy                                        1.13.1               <pip>     
+tiktoken                                     0.14.0               <pip>     
+tokenizers                                   0.21.4               <pip>     
+tomli                                        2.4.1                <pip>     
+torch                                        2.6.0                <pip>     
+torchaudio                                   2.6.0                <pip>     
+torchvision                                  0.21.0               <pip>     
+tqdm                                         4.70.1               <pip>     
+transformers                                 4.51.3               <pip>     
+triton                                       3.2.0                <pip>     
+truststore                                   0.10.4               <pip>     
+typer                                        0.27.2               <pip>     
+typing-inspection                            0.4.4                <pip>     
+typing_extensions                            4.16.0               <pip>     
+urllib3                                      2.8.0                <pip>     
+uvicorn                                      0.54.0               <pip>     
+uvloop                                       0.23.0               <pip>     
+vllm                                         0.8.3                <pip>     
+watchfiles                                   1.3.0                <pip>     
+websockets                                   16.1.1               <pip>     
+xformers                                     0.0.29.post2         <pip>     
+xgrammar                                     0.1.17               <pip>     
+yarl                                         1.25.1               <pip>     
+zipp                                         4.1.0                <pip>     

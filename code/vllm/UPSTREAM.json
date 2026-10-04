@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/vllm-project/vllm",
+  "tag": "v0.8.3",
+  "commit": "296c6572dd1f76b31b93be19e550790afcfb8843",
+  "version": "0.8.3",
+  "source_directory": "vendor/vllm",
+  "source_changes": [],
+  "wheel": {
+    "filename": "vllm-0.8.3-cp38-abi3-manylinux1_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/2a/99/58ba40e42ec6358ff4da5b6b6ce2ac9f8b10329fcfd65c9ee12c124f37f9/vllm-0.8.3-cp38-abi3-manylinux1_x86_64.whl",
+    "sha256": "5488af1cf912ca8a7fad622512e0502235f5377ee36571c04361cbc31105c811",
+    "platform": "Linux x86_64",
+    "torch": "2.6.0",
+    "cuda": "12.4",
+    "generated_files": [
+      "vllm/_C.abi3.so",
+      "vllm/_flashmla_C.abi3.so",
+      "vllm/_moe_C.abi3.so",
+      "vllm/_version.py",
+      "vllm/cumem_allocator.abi3.so",
+      "vllm/vllm_flash_attn/__init__.py",
+      "vllm/vllm_flash_attn/_vllm_fa2_C.abi3.so",
+      "vllm/vllm_flash_attn/_vllm_fa3_C.abi3.so",
+      "vllm/vllm_flash_attn/flash_attn_interface.py"
+    ]
+  }
+}
