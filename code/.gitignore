@@ -2,7 +2,13 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
-outputs/
+outputs/*
+!outputs/
+!outputs/.gitkeep
 logs/
-models/target/
-models/draft/
+models/target/*
+!models/target/
+!models/target/.gitkeep
+models/draft/*
+!models/draft/
+!models/draft/.gitkeep
