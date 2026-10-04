@@ -40,7 +40,7 @@ Transformers==4.51.3
 Triton==3.2.0
 ```
 For the complete package versions and environment snapshots, see
-[`./code/requirements.txt`](requirements.txt).
+[`code/requirements.txt`](requirements.txt).
 
 ## Code Structure
 
@@ -77,6 +77,14 @@ JuDi/
 └── README.md                   # Main project documentation
 ```
 
+## Model Weight
+Download corresponding model weights (if required) to `code/models/target` and `code/models/draft`.
+
+| Model | Type | URL |
+| :--- | :--- | :--- |
+| Llama-3.1-8B-Instruct | Target Model | [Link](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) |
+| Llama-3.2-1B-Instruct | Draft Model | [Link](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) |
+
 ## Compile and Run
 
 Prepare the vendored vLLM runtime first, then run the benchmark scripts from
@@ -92,7 +100,7 @@ bash run_mat_acc.sh
 bash run_vllm.sh
 ```
 
-We provide the full datasets [here](https://drive.google.com/drive/folders/11AWIsaI5o9N36rJ0rN1azFG36fn2B_bk?usp=sharing). Due to storage limitations, please download them and place them in `./code/models/datasets`.
+We provide the full datasets [here](https://drive.google.com/drive/folders/11AWIsaI5o9N36rJ0rN1azFG36fn2B_bk?usp=sharing). Due to storage limitations, please download them and place them in `code/models/datasets`.
 
 ## Acknowledgment of Open-Source Code Contributions  
 
