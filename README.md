@@ -91,13 +91,14 @@ Prepare the vendored vLLM runtime first, then run the benchmark scripts from
 the project directory:
 
 ```
+# Prepare the vendored vLLM
 cd code
 export VLLM_USE_V1=0
 export PYTHONPATH="$PWD/vllm${PYTHONPATH:+:$PYTHONPATH}"
 python -m judi_vllm.prepare
 python -m judi_vllm.prepare --check
 
-# run the benchmark
+# Run the benchmark
 bash run_mat_acc.sh
 bash run_vllm.sh
 ```
